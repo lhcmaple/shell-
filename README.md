@@ -4,7 +4,7 @@
 changeMD5.sh: 
 改变格式文件的MD5值 
 
-auto_connectsh,request: 
+auto_connect.sh,request: 
 自动登录校园网，断网自动重连; 
-需要下载ncat 
+需要下载ncat工具 
 sudo apt-get install ncat 
